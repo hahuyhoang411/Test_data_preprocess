@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "title": "The Catcher in the Rye",
+      "author": {
+        "name": "J.D. Salinger",
+        "birth_year": 1919,
+        "death_year": 2010,
+        "biography": "Jerome David Salinger was an American novelist known for his influential and controversial novel, 'The Catcher in the Rye.' He was a recluse in later life, and his work remains widely read and studied."
+      },
+      "publication_year": 1951,
+      "genre": "Fiction",
+      "isbn": "978-0-316-76948-7",
+      "reviews": [
+        {
+          "user": "LiteraryLover",
+          "rating": 4.0,
+          "comment": "A thought-provoking classic that captures the essence of adolescence."
+        },
+        {
+          "user": "BookWanderer",
+          "rating": 5.0,
+          "comment": "A masterpiece that continues to resonate with readers."
+        }
+      ]
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": {
+        "name": "Jane Austen",
+        "birth_year": 1775,
+        "death_year": 1817,
+        "biography": "Jane Austen was an English novelist known for her six major novels, including 'Pride and Prejudice.' Her works explore the themes of love, marriage, and society, and she is considered one of the most important literary figures of the 19th century."
+      },
+      "publication_year": 1813,
+      "genre": "Classic Fiction",
+      "isbn": "978-0141439518",
+      "reviews": [
+        {
+          "user": "AustenFanatic",
+          "rating": 4.5,
+          "comment": "A timeless classic with rich character development."
+        },
+        {
+          "user": "LiteratureLover",
+          "rating": 5.0,
+          "comment": "A must-read for anyone who appreciates wit and romance in literature."
+        }
+      ]
+    }
+  ]
+}
