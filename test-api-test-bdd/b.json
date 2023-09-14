@@ -1,1 +1,43 @@
+{
+  "books": [
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publication_year": 1988,
+      "genre": "Fiction",
+      "isbn": "978-0061122415",
+      "reviews": [
+        {
+          "user": "BookLover123",
+          "rating": 4.5,
+          "comment": "A beautiful and inspiring story."
+        },
+        {
+          "user": "ReaderGirl22",
+          "rating": 5.0,
+          "comment": "One of my all-time favorites!"
+        }
+      ]
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1937,
+      "genre": "Fantasy",
+      "isbn": "978-0547928227",
+      "reviews": [
+        {
+          "user": "FantasyFanatic",
+          "rating": 4.8,
+          "comment": "A classic adventure filled with memorable characters."
+        },
+        {
+          "user": "BookWorm99",
+          "rating": 4.5,
+          "comment": "I wish I could visit Middle-earth!"
+        }
+      ]
+    }
+  ]
+}
 
